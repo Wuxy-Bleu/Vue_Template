@@ -431,8 +431,8 @@ export default {
 
       // let client = new OSS({
       //   region: "oss-cn-shanghai",
-      //   accessKeyId: "LTAI4G1KczRx4Aeju4eShCD5",
-      //   accessKeySecret: "d4XFPpeR7p8QkLDKfUCJ61UE8jTpX6",
+      //   accessKeyId: "",
+      //   accessKeySecret: "",
       //   bucket: "bleuweb-music",
       //   secure: true
       // });
